@@ -11,6 +11,13 @@ This is a simple book management system that allows users to add, delete, and vi
 - Update a book
 - Save books to a file
 
+## Technologies
+
+- Go
+- Gorm (for ORM)
+- Mysql (for database)
+- Mux (for routing)
+
 ## How to run
 
 1. Clone the repository
